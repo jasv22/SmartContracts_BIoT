@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "https://github.com/josesanchez2019/SmartContracts_BIoT/blob/main/erc721-master/src/contracts/tokens//nf-token.sol";
-import "https://github.com/josesanchez2019/SmartContracts_BIoT/blob/main/erc721-master/src/contracts/tokens//erc721-metadata.sol";
+import "https://github.com/josesanchez2019/SmartContracts_BIoT/blob/main/erc721-master/src/contracts/tokens/nf-token.sol";
+import "https://github.com/josesanchez2019/SmartContracts_BIoT/blob/main/erc721-master/src/contracts/tokens/erc721-metadata.sol";
 
 /**
  * @dev Optional metadata implementation for ERC-721 non-fungible token standard.
