@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "https://github.com/josesanchez2019/SmartContracts_BIoT/blob/main/erc721-master/src/contracts/tokens//erc721.sol";
-import "https://github.com/josesanchez2019/SmartContracts_BIoT/blob/main/erc721-master/src/contracts/tokens//erc721-token-receiver.sol";
+import "https://github.com/josesanchez2019/SmartContracts_BIoT/blob/main/erc721-master/src/contracts/tokens/erc721.sol";
+import "https://github.com/josesanchez2019/SmartContracts_BIoT/blob/main/erc721-master/src/contracts/tokens/erc721-token-receiver.sol";
 import "https://github.com/josesanchez2019/SmartContracts_BIoT/blob/main/erc721-master/src/contracts/utils/supports-interface.sol";
 import "https://github.com/josesanchez2019/SmartContracts_BIoT/blob/main/erc721-master/src/contracts/utils/address-utils.sol";
 
