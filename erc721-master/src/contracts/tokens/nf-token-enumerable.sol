@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "./nf-token.sol";
-import "./erc721-enumerable.sol";
+import "https://github.com/josesanchez2019/SmartContracts_BIoT/blob/main/erc721-master/src/contracts/tokens/nf-token.sol";
+import "https://github.com/josesanchez2019/SmartContracts_BIoT/blob/main/erc721-master/src/contracts/tokens/erc721-enumerable.sol";
 
 /**
  * @dev Optional enumeration implementation for ERC-721 non-fungible token standard.
