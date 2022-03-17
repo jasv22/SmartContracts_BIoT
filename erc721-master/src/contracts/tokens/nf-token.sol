@@ -249,7 +249,7 @@ contract NFToken is
   function ownerOf(
     uint256 _tokenId
   )
-    external
+    public
     override
     view
     returns (address _owner)
