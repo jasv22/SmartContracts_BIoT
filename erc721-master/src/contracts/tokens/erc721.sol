@@ -146,7 +146,7 @@ interface ERC721
   function ownerOf(
     uint256 _tokenId
   )
-    external
+    public
     view
     returns (address);
 
